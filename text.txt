@@ -1,0 +1,33 @@
+업데이트581가 완료되었습니다
+<ref *1> [Function: initialize] {
+  fn: {
+    constructor: [Circular *1],
+    _originalRoot: Node {
+      type: 'root',
+      name: 'root',
+      parent: null,
+      prev: null,
+      next: null,
+      children: [Array],
+      'x-mode': 'no-quirks'
+    }
+  },
+  load: [Function (anonymous)],
+  html: [Function (anonymous)],
+  xml: [Function (anonymous)],
+  text: [Function (anonymous)],
+  parseHTML: [Function (anonymous)],
+  root: [Function (anonymous)],
+  contains: [Function (anonymous)],
+  merge: [Function (anonymous)],
+  _root: Node {
+    type: 'root',
+    name: 'root',
+    parent: null,
+    prev: null,
+    next: null,
+    children: [ [Node], [Node] ],
+    'x-mode': 'no-quirks'
+  },
+  _options: { xml: false, decodeEntities: true }
+}
